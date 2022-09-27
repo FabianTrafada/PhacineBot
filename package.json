@@ -1,0 +1,18 @@
+{
+  "name": "phacine-take-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord-economy-super": "^1.6.7",
+    "discord.js": "^14.3.0",
+    "fs": "^0.0.1-security"
+  }
+}
